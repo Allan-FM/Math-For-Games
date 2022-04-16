@@ -1,3 +1,4 @@
-# Fundamentos-De-Matematica-Para-jogos
-Aplicando os fundamentos de matematica nos exercicios
+# Math for Games
+
+### Applying the fundamentals of mathematics in the exercises
 
